@@ -1,0 +1,2 @@
+webpackJsonp([6],{Sfbx:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{},[this._v("\n  itemconfig   \n")])},staticRenderFns:[]};var r=t("VU/8")({name:"itemconfig",data:function(){return{}}},i,!1,function(e){t("z/ZT")},null,null);n.default=r.exports},"z/ZT":function(e,n){}});
+//# sourceMappingURL=6.c8f23b0077fb8bf43bd6.js.map

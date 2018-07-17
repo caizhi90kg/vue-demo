@@ -1,0 +1,2 @@
+webpackJsonp([14],{"2lgr":function(e,n){},uJ1a:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,n=this._self._c||e;return n("div",{},[n("router-view")],1)},staticRenderFns:[]};var u=t("VU/8")({name:"tableconf",data:function(){return{}}},r,!1,function(e){t("2lgr")},null,null);n.default=u.exports}});
+//# sourceMappingURL=14.a0c1cedf020e9a4aac84.js.map

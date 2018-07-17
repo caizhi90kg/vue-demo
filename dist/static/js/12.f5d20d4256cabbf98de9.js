@@ -1,0 +1,2 @@
+webpackJsonp([12],{DAxM:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var n=this.$createElement;return(this._self._c||n)("div",{},[this._v("\n  charconfig  \n")])},staticRenderFns:[]};var a=t("VU/8")({name:"charhandle",data:function(){return{}}},r,!1,function(n){t("op7N")},null,null);e.default=a.exports},op7N:function(n,e){}});
+//# sourceMappingURL=12.f5d20d4256cabbf98de9.js.map

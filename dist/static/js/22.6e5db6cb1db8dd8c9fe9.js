@@ -1,0 +1,2 @@
+webpackJsonp([22],{"366e":function(e,n){},zo8s:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{},[this._v("\n  parthandle   \n")])},staticRenderFns:[]};var a=t("VU/8")({name:"parthandle",data:function(){return{}}},r,!1,function(e){t("366e")},null,null);n.default=a.exports}});
+//# sourceMappingURL=22.6e5db6cb1db8dd8c9fe9.js.map

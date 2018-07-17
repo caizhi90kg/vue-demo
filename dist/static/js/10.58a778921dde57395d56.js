@@ -1,0 +1,2 @@
+webpackJsonp([10],{E8wK:function(n,e){},"hh/P":function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i={render:function(){var n=this.$createElement;return(this._self._c||n)("div",{},[this._v("\n  infosysconfig   \n")])},staticRenderFns:[]};var r=t("VU/8")({name:"infosysconfig",data:function(){return{}}},i,!1,function(n){t("E8wK")},null,null);e.default=r.exports}});
+//# sourceMappingURL=10.58a778921dde57395d56.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([24],{"6GaS":function(e,n){},ETh4:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,n=this._self._c||e;return n("div",{},[n("router-view")],1)},staticRenderFns:[]};var u=t("VU/8")({name:"infosys",data:function(){return{}}},r,!1,function(e){t("6GaS")},null,null);n.default=u.exports}});
+//# sourceMappingURL=24.4dfe6c3b96b9c9258434.js.map
